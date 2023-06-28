@@ -3,7 +3,7 @@
 		"name": "サンラング",
 		"leaderName": "はち三郎",
 		"adjective": ["sanlang"],
-		"startBias": ["coast"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "ようこそ、サンラング・ハチ帝国へ。我らは...（以下省略）検討を祈ります！",
@@ -29,7 +29,8 @@
 
 		"outerColor": [150,50,50],
 		"innerColor": [255,255,255],
-		"unique": "MANIFEST_DESTINY",
+		"uniqueName": "労働の自由",
+		"uniques": ["[+1 Production] from every [Land] unit ",["+[10]% Culture when constructing [Wonders]"],
 		"cities": ["ハチサンラング","ハン","レントゲニウム","ケイソウ","ミカヅキモ","ゾオン","エミール","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
