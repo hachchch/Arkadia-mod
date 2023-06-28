@@ -1,13 +1,13 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "サンラング",
+		"leaderName": "はち三郎",
+		"adjective": ["sanlang"],
+		"startBias": ["coast"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "ようこそ、サンラング・ハチ帝国へ。我らは...（以下省略）検討を祈ります！",
+		"startIntroPart2": "いまこそ世界に我々、サンラング人の力を見せつける時です。いざ、立ち上がれ！永遠の帝国よ！",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
 		"attacked": "You want to play? Very funny!",
