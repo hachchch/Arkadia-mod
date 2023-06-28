@@ -1,25 +1,28 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"name": "帝国音楽館",
+		"replaces": "Hermitage",
+		"uniqueTo": "サンラング",
+		"cost": 836,
+		"uniques": ["+[75]% [Culture] [in this city]"],
+		"hurryCostModifier": 25,
+		"happiness": 3,
+		"culture": 8,
+		"maintenance": 8,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"requiredBuildingInAllCities": "Opera House",
+		"requiredTech": "Electricity"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "リクルートセンター",
+		"replaces": "Arsenal",
+		"uniqueTo": "サンラング",
+		"cost": 120,
+		"hurryCostModifier": 10,
+		"uniques": ["+[15]% Production when constructing [Land] units [in this city]",
+			"+[25]% Production when constructing [Gunpowder] units [in this city]",
+			"-[15]% Production when constructing [Civilian] units [in this city]",
+			"[+1 Production] from [Fort] tiles in this city"]
+		"requiredTech": "Printing Press"
 	}
 ]
