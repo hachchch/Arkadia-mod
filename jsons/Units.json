@@ -9,6 +9,6 @@
 		"cost": 120,
 		"requiredTech": "Gunpowder",
 		"promotions": ["Formation I","March"],
-		"attackSound": "Musketman"
+		"attackSound": "LineInfantry"
 	}
 ]
