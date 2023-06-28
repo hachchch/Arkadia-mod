@@ -30,7 +30,7 @@
 		"outerColor": [150,50,50],
 		"innerColor": [255,255,255],
 		"uniqueName": "労働の自由",
-		"uniques": ["[+1 Production] from every [Land] unit ",["+[10]% Culture when constructing [Wonders]"],
+		"uniques": ["[+1 Production] from every [Great Improvement]",["+[10]% Culture when constructing [Wonders]"],
 		"cities": ["ハチサンラング","ハン","レントゲニウム","ケイソウ","ミカヅキモ","ゾオン","エミール","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
