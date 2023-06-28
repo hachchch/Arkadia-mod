@@ -1,17 +1,14 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"name": "戦列歩兵",
+		"unitType": "Gunpowder",
+		"uniqueTo": "サンラング",
+		"replaces": "Musketman",
+		"movement": 1,
+		"strength": 31,
+		"cost": 120,
+		"requiredTech": "Gunpowder",
+		"promotions": ["Formation I","March"],
+		"attackSound": "Musketman"
 	}
 ]
