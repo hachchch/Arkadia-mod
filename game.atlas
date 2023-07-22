@@ -4,7 +4,7 @@ size: 100, 100
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/サンラング
+NationIcons/sanlang
   rotate: false
   xy: 112, 1624
   size: 100, 100
